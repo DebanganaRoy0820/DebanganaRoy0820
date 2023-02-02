@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Debangana
-- 👀 I’m interested in ...Data Science and Python
-- 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ...Data Science
+- 👀 I’m a Devops engineer
+- 🌱 I’m currently learning ... Devops
+- 💞️ I’m looking to collaborate on ...Devops
 - 📫 Look me up on LinkedIn: https://www.linkedin.com/in/debangana-roy/
-- 😅 My Kaggle profile: https://www.kaggle.com/debanganaroy
+- 😅 Devops Newbie here
 
 <!---
 DebanganaRoy0820/DebanganaRoy0820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
